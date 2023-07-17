@@ -48,9 +48,9 @@ const GameCategory = async (props: { params: { slug: string } }) => {
 export default GameCategory;
 
 const classNames = {
-  hero: "relative py-16 md:py-20 bg-cover bg-[url('https://images.unsplash.com/photo-1593305841991-05c297ba4575?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cGxheSUyMHN0YXRpb258ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60')]",
+  hero: "relative py-16 md:py-20 bg-cover bg-[url('https://images.unsplash.com/photo-1542751371-adc38448a05e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Z2FtaW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60')]",
   heroContent:
-    "relative bg-primary-gradient inline-block max-w-screen-xl mx-auto px-4 py-8 md:py-12 lg:px-8 lg:py-20",
+    "relative bg-transparet inline-block max-w-screen-xl mx-auto px-4 py-8 md:py-12 lg:px-8 lg:py-20",
   title:
     "text-2xl md:text-4xl lg:text-5xl font-extrabold tracking-tight text-white",
   subtitle: "mt-2 md:mt-4 max-w-3xl text-sm md:text-xl text-gray-300",
